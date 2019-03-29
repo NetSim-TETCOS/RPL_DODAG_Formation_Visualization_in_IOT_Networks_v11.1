@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  DAO.c
+  DIO.c
+  DIS.c
+  DODAG.c
+  MATLAB_Interface.c
+f:\v11.1_projects\rpl_dodag_formation_visualization_in_iot_networks_v11.1\workspace_rpl_dodag_in_iot\src\simulation\rpl\matlab_interface.c(13): fatal error C1083: Cannot open include file: 'engine.h': No such file or directory
+  Neighbor.c
+  RPL.c
+f:\v11.1_projects\rpl_dodag_formation_visualization_in_iot_networks_v11.1\workspace_rpl_dodag_in_iot\src\simulation\rpl\rpl.c(18): warning C4028: formal parameter 1 different from declaration
+  RPL_enum.c
+  RPL_Message.c
+  SequenceNumber.c
+  Trickle.c
+  Generating Code...
